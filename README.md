@@ -1,8 +1,11 @@
-# first_flutter_app
+# My cousre progress
 
-Source code for the Dart & Flutter Course.
+This repository includes all the progress I made throughout the course
 
-## Getting Started
+-Basic Tip Calculator
+-Quote cards app
+-Quiz App
+-Movie app (Using Json)
+-Weather app(Using accu weather api)
 
-Download the entire project and look at the ``main.dart`` file for instructions on how the project hosts many different projects/apps.
 
